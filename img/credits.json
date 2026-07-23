@@ -1,0 +1,18 @@
+{
+  "_license": "Unsplash License — free for commercial use, no permission needed; attribution appreciated. https://unsplash.com/license",
+  "_note": "Изображения пересобраны 11.07.2026 (исходники утеряны при синхронизации iCloud). 12.07.2026 сжаты в WebP (max 1600px, q78); hero/b2b дополнительно оставлены сжатыми JPEG (1200px) для OG-превью.",
+  "hero": { "author": "Pipcke", "profile": "https://unsplash.com/@pipcke", "photo": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-g_5UyVBIX_k" },
+  "tile": { "author": "Colin Watts", "profile": "https://unsplash.com/@colinwatts", "photo": "https://unsplash.com/photos/square-beige-and-brown-textured-wall-tiles-with-grout-y8q16Yzlufc" },
+  "bath": { "author": "Krystal Black", "profile": "https://unsplash.com/@krystalblackphoto", "photo": "https://unsplash.com/photos/a-white-bath-tub-sitting-next-to-a-green-plant-Wj5niePWnvQ" },
+  "wood": { "author": "Alex Cooper", "profile": "https://unsplash.com/@alexcooper13", "photo": "https://unsplash.com/photos/wooden-floor-with-herringbone-pattern-Kq8uV6tZM20" },
+  "doors": { "author": "Clay Banks", "profile": "https://unsplash.com/@claybanks", "photo": "https://unsplash.com/photos/a-room-with-a-door-and-a-plant-in-it-wKrfpXTN07Q" },
+  "paint": { "author": "thomas heintz", "profile": "https://unsplash.com/@thomas2006", "photo": "https://unsplash.com/photos/white-textured-plaster-wall-surface-0tgMnMIYQ9Y" },
+  "light": { "author": "Lee Milo", "profile": "https://unsplash.com/@miloleetw", "photo": "https://unsplash.com/photos/a-modern-pendant-light-fixture-hangs-indoors-uIjVZb9TEDQ" },
+  "electro": { "author": "Sebastian Puskeiler", "profile": "https://unsplash.com/@keiler", "photo": "https://unsplash.com/photos/a-black-electrical-outlet-and-switch-on-a-wall-aGXefExMOXw" },
+  "tech": { "author": "Lotus Design N Print", "profile": "https://unsplash.com/@lotusdnp", "photo": "https://unsplash.com/photos/a-kitchen-with-a-stove-top-oven-and-a-sink-9b7wGJQaScw" },
+  "engineering": { "author": "Julian Hochgesang", "profile": "https://unsplash.com/@julianhochgesang", "photo": "https://unsplash.com/photos/white-radiator-heater-beside-brown-wooden-window-ihx1LdtnGXw" },
+  "interior-2": { "author": "eskoala", "profile": "https://unsplash.com/@eskoala", "photo": "https://unsplash.com/photos/a-living-room-with-a-couch-chair-and-television-wBIIJKfjG1g" },
+  "bedroom": { "author": "marke", "profile": "https://unsplash.com/@sabinajeinku", "photo": "https://unsplash.com/photos/a-bed-with-a-white-comforter-and-a-lamp-lEvPcs1dwko" },
+  "b2b": { "author": "Trac Vu", "profile": "https://unsplash.com/@tracminhvu", "photo": "https://unsplash.com/photos/black-and-gray-chairs-and-table-near-glass-window-vi59jclwSko" },
+  "warehouse": { "author": "Lance Chang", "profile": "https://unsplash.com/@carmendis", "photo": "https://unsplash.com/photos/a-large-warehouse-filled-with-lots-of-shelves-h3pVxOIpnzk" }
+}
